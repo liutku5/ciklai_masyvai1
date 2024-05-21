@@ -273,9 +273,7 @@ public class Main {
         System.out.println("total count: " + totalCount1);
 
 
-
-        git config --global user.name "liutku5"
-        git config --global user.email "l1utkuz20@gmail.com"
+        System.out.println("dasdasd");
 
     }
 }
